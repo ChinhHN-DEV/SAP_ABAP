@@ -1,2 +1,0 @@
-# SAP_ABAP
-SAP_ABAP
